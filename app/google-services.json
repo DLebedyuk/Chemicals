@@ -1,0 +1,85 @@
+{
+  "project_info": {
+    "project_number": "650175483275",
+    "firebase_url": "https://chembase-a311f.firebaseio.com",
+    "project_id": "chembase-a311f",
+    "storage_bucket": "chembase-a311f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:650175483275:android:7b49058795ad1abad9f38e",
+        "android_client_info": {
+          "package_name": "com.example.chembasetest"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "650175483275-37ha8kmhfoee2rrbd6amgjuql0790m80.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.chembasetest",
+            "certificate_hash": "4764021017a4d190bbb3a3f21a592b7bbf1f207b"
+          }
+        },
+        {
+          "client_id": "650175483275-aikvlv8baur6b3anjujaq7mvl1blefiq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDSmjaqcILAZwITyNKkjnpH48TWt69u6Lo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "650175483275-aikvlv8baur6b3anjujaq7mvl1blefiq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:650175483275:android:fa007d66a2718c0cd9f38e",
+        "android_client_info": {
+          "package_name": "com.example.chemicals"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "650175483275-maenp8thcocd9nvs2mqhcbthmv2aoq5q.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.chemicals",
+            "certificate_hash": "f83b0ee7d0f01cd82e597b1da641b10dd47d7eaa"
+          }
+        },
+        {
+          "client_id": "650175483275-aikvlv8baur6b3anjujaq7mvl1blefiq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDSmjaqcILAZwITyNKkjnpH48TWt69u6Lo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "650175483275-aikvlv8baur6b3anjujaq7mvl1blefiq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
